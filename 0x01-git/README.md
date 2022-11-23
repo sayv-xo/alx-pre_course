@@ -9,3 +9,5 @@ The aim of this project is to introduce student to:
 - Creating and merging branches
 - Pushing codes
 - Pulling updates
+- Working as collaborators on a project
+- Creating and using gitignore files
